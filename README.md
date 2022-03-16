@@ -9,6 +9,7 @@ PAYMENT INFORMATION contain...
 <br>
 card type ,card number,cvv,password and expiry date.Here all are required inputs.
 <br>
+<br>
 <h3>The input Element<h3>
 <p>The HTML input element is the most used form element.
 
@@ -27,6 +28,7 @@ Here are some examples:
  <br>
  <br>
 <h3>List of All <form> Attributes<h3>
+ <p>
 <ul>
 <li>accept-charset	Specifies the character encodings used for form submission</li>
 <li>action	Specifies where to send the form-data when a form is submitted</li>
@@ -39,4 +41,5 @@ Here are some examples:
 <li>target	Specifies where to display the response that is received after submitting the form</li>
 
  </ul>
+ </p>
 
