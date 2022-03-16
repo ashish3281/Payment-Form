@@ -10,12 +10,12 @@ PAYMENT INFORMATION contain...
 card type ,card number,cvv,password and expiry date.Here all are required inputs.
 <br>
 <h3>The input Element<h3>
-The HTML input element is the most used form element.
+<p>The HTML input element is the most used form element.
 
 An input element can be displayed in many ways, depending on the type attribute.
 
 Here are some examples:
-
+ </p>
 <b>Type	Description<b>
  <ul>
    <li> type="text">	Displays a single-line text input field</li>
@@ -24,3 +24,19 @@ Here are some examples:
 <li> type="submit">	Displays a submit button (for submitting the form)</li>
 <li> type="button">	Displays a clickable button</li>
   </ul>
+ <br>
+ <br>
+<h3>List of All <form> Attributes<h3>
+<ul>
+<li>accept-charset	Specifies the character encodings used for form submission</li>
+<li>action	Specifies where to send the form-data when a form is submitted</li>
+<li>autocomplete	Specifies whether a form should have autocomplete on or off</li>
+<li>enctype	Specifies how the form-data should be encoded when submitting it to the server (only for method="post")</li>
+<li>method	Specifies the HTTP method to use when sending form-data</li>
+<li>name	Specifies the name of the form</li>
+<li>novalidate	Specifies that the form should not be validated when submitted</li>
+<li>rel	Specifies the relationship between a linked resource and the current document</li>
+<li>target	Specifies where to display the response that is received after submitting the form</li>
+
+ </ul>
+
